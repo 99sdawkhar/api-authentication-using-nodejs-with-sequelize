@@ -1,0 +1,2 @@
+nexmo 
+pswd Pari@1234

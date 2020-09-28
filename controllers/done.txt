@@ -1,0 +1,10 @@
+done
+CHANGES NEXMO ADDED. TWILO COMMENTED.
+sending sms working -using nexmo
+to do
+send otp using alredy created function. 
+then temporary store it in db or somewhere , 
+verify the otp with sent otp if result is success then store the number in db if not then show error 
+first check if number alredy exists in db if yes then don't save else save.
+
+ select * from persons \G
